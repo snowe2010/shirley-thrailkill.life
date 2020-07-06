@@ -1,11 +1,14 @@
 ---
-layout: page
-header-img: "img/404.jpg"
-permalink: "/404.html"
-redirect_to: "baseurl/journal/"
+layout: default
+permalink: /404.html
+title: 404 Not Found
 ---
-
-<p><h1>Whoops, this page doesn't exist.</p>
-<p>You will be redirected to <a href="{{ site.baseurl }}/journal/">JOURNAL</a> in few seconds.</p></h1>
-
+<header>
+  <h1 class="header-small">
+    <a href="{{site.url}}{{site.baseurl}}">{{ site.name }}</a>
+  </h1>
+</header>
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  <span>Sorry, but the page you were trying to view does not exist.</span>
 </div>

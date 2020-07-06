@@ -1,75 +1,95 @@
-# Site settings
-title: Shirley Thrailkill
-email: ""
-description: "Memories"
-url: "https://shirley-thrailkill.life"
-baseurl: ""
-# facebook_username: ""
-# twitter_username: ""
-# instagram_username: ""
-# github_username:  ""
-# deviantart_username: ""
-# flickr_username: ""
-# discus_shortname: ""
-# share: true
+# # # # # # # # # # # # #
+#   K i k o - p l u s   #
+# # # # # # # # # # # # #
 
-# Owner/author information
-owner:
-  name:   tylerthrailkill
-  avatar: avatar.png
-  favicon: favicon.ico
-  info: photography website template
+# Basic
+name:               "Shirley Thrailkill"
+repository:         snowe2010/snowe2010.github.io
 
-# Settings for comments helper
-# Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
-# Set 'provider' to false to turn commenting off globally.
-#Set 'provider: false' to disable comments globally.
-# Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
-#
-comments :
-  provider : disqus
-  disqus :
-    short_name : ""
+author:
+  # facebook:         your-id
+  # youtubeUser:      your-id
+  # youtubeChannel:   your-id
+  # twitter:          your-id
+  github:           snowe2010
+  stackoverflow:    1394698
+  # quora:            your-id
+  linkedin:         tylerthrailkill
+  # pinterest:        your-id
+  # googlePlus:       your-id
+  # instagram:        your-id
+  # reddit:           your-id
+  # medium:           your-id
+  # tumblr:           your-id
+  email:            tyler.b.thrailkill@gmail.com
 
-# Internal nav
+copyright:
+  year:             2020
+  name:             Tyler Thrailkill
+
+# Google-analytics
+# google-analytics:
+  # id:               ""
+
+# Disqus
+# disqus:
+  # id:               "kiko-plus"
+
+# URL
+url:                "http://shirley-thrailkill.life" # the base hostname & protocol for your site
+# url:                "http://localhost:4000" # use this url when you develop
+baseurl:            "" # the subpath of your site, e.g. /blog
+
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           America/Dallas
+permalink:          /:year-:month-:day/:title/
+
+# Pagination
+paginate:           5
+paginate_path:      /page:num/
+
+# Markdown
+markdown:           kramdown
+kramdown:
+  input:            GFM
+
+# Navigation
 nav:
-  - Guestbook: "/guestbook/"
-  - GALLERY: "/gallery/"
-  - Service: "/service/"
-  - JOURNAL: "/journal/"
-  - ABOUT: "/about/"
+  - name: "service"
+    url: "/"
+  - name: "program"
+    url: "/program"
+  - name: "slideshow"
+    url: "/slideshow"
+  - name: "photos"
+    url: "/photos"
+  - name: "music"
+    url: "/music"
+# Sass
+sass:
+  sass_dir:         _sass
+  style:            :compressed
 
-# All translation keys
-translations:
- # 404.html
-  permalink: "/404.html"
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
 
-# Server
-destination:      	 ./_site
-port:             	 4000
+# jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-admin
 
-
-# Build settings
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
-paginate: 5
-paginate_path: "/journal/page:num/"
-permalink: "/journal/:title/"
-categories_path: "/journal/category/"
-tags_path: "/journal/tag/"
-gems: 
- - jekyll-paginate
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-
-# SiteMap
-sitemap:
-    file: "/sitemap.xml"
-    exclude:
-        - "/atom.xml"
-        - "/feed.xml"
-        - "/feed/index.xml"
-    include_posts:
-        - "/writing/"
-    change_frequency_name: "change_frequency"
-    priority_name: "priority"
+exclude:            [vendor]
