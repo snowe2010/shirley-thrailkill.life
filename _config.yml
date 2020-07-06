@@ -34,7 +34,8 @@ comments :
 # Internal nav
 nav:
   - Guestbook: "/guestbook/"
-  - GALLERY: "/gallery/"  
+  - GALLERY: "/gallery/"
+  - Service: "/service/"
   - JOURNAL: "/journal/"
   - ABOUT: "/about/"
 
