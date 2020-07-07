@@ -60,6 +60,8 @@ nav:
     url: "/"
   - name: "program"
     url: "/program"
+  - name: "livestream"
+    url: /livestream
   - name: "slideshow"
     url: "/slideshow"
   - name: "photos"

@@ -23,7 +23,7 @@ Sharing Shirley's Life
 : Ronnie Maroquin
 : Judy Grimes
 : Y.C. Crowe
-: Betty Wertke
+: Katherine Wertke reading Betty Wertke
 
 Music
 : Bill Brooks (All in All)
