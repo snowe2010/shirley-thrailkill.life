@@ -177,7 +177,8 @@ dt {
   margin-bottom: $li-bottom-space;
 
   @media (max-width: 38rem){
-    width: 120px;
+    width: 50%;
+    font-size: .6rem;
   }
 }
 
@@ -186,7 +187,7 @@ dd {
   margin-bottom: $li-bottom-space;
 
   @media (max-width: 38rem){
-    margin-left: 140px;
+    margin-left: 53%;
   }
 }
 
