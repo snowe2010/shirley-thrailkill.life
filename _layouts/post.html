@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
-<header>
+<header class="small">
   <div class="header-small">
     <a href="{{site.url}}{{site.baseurl}}">{{ site.name }}</a>
   </div>
+
+  {% include nav.html %}
 </header>
 <div class="post">
   <div class="post-title">{{ page.title }}</div>

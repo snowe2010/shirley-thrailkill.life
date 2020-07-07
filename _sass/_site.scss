@@ -443,17 +443,25 @@ body {
   grid-template-rows: auto;
   grid-template-areas: "donation1 donation2 donation3";
   align-items: start;
+
+  @media (max-width: 48rem){
+    grid-template-columns: col 1fr;
+  }
 }
 
 .specific-column-1 {
-  grid-column: 1;
-  grid-row: 1;
+  // grid-column: 1;
+  // grid-row: 1;
 }
 .specific-column-2 {
-  grid-column: 2;
-  grid-row: 1;
+  // grid-column: 2;
+  // grid-row: 1;
 }
 .specific-column-3 {
-  grid-column: 3;
-  grid-row: 1;
+  // grid-column: 3;
+  // grid-row: 1;
+}
+
+header.small {
+  padding-bottom: 1em;
 }

@@ -3,8 +3,6 @@ title: Celebration of Life Service
 permalink: /program/
 ---
 
-
-
 * Musical Prelude (set the tone at the beginning with song, Bill playing)
 * Seating of family, everyone rises (I can only imagine)
 * Words of greeting and grace (Brandon)

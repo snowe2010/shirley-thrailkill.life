@@ -3,10 +3,12 @@ layout: default
 permalink: /404.html
 title: 404 Not Found
 ---
-<header>
+<header class="small">
   <h1 class="header-small">
     <a href="{{site.url}}{{site.baseurl}}">{{ site.name }}</a>
   </h1>
+
+  {% include nav.html %}
 </header>
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
