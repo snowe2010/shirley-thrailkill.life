@@ -5,6 +5,11 @@
 # Basic
 name:               "Shirley Thrailkill"
 repository:         snowe2010/snowe2010.github.io
+title: "Shirley Thrailkill - Celebration of Life"
+description: >- 
+  Website commemorating Shirley Thrailkill 
+  along with links to view the livestream, slideshow,
+  music, obituary, and service program
 
 author:
   # facebook:         your-id
@@ -42,7 +47,7 @@ baseurl:            "" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           America/Dallas
+timezone:           America/Chicago
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
@@ -94,4 +99,6 @@ plugins:
   - jekyll-paginate
   # - jekyll-admin
 
+gems:
+  - jekyll-seo-tag
 exclude:            [vendor]
