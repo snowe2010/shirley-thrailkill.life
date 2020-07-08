@@ -3,10 +3,11 @@ title: Celebration of Life Service
 permalink: /program/
 ---
 
+Memory Slideshow
+: [Video Slideshow](/slideshow)
+: [Photos](/photos)/[Playlist](/music)
 
 Musical Prelude
-: [Video Slideshow](/slideshow)
-: [Spotify Playlist](/music)
 : Bill Brooks
 
 Seating of Family
@@ -36,3 +37,6 @@ Music
 Closing Words and Prayer
 : Brandon Frenzel
 
+Memory Slideshow
+: [Video Slideshow](/slideshow)
+: [Photos](/photos)/[Playlist](/music)

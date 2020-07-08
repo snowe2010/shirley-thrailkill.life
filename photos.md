@@ -5,6 +5,9 @@ permalink: /photos/
 
 ### Google Photos Album
 
+[Direct link to album to download, share, etc](https://photos.app.goo.gl/hiDZxdybnHDQv5aF9)
+
+
 <!-- https://www.publicalbum.org/blog/embedding-google-photos-albums -->
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
