@@ -6,12 +6,10 @@ permalink: /program/
 
 Musical Prelude
 : Bill Brooks
-: (set the tone at the beginning with song, Bill playing)
+: Video Slideshow
 
 Seating of Family
 : Bill Brooks
-: everyone rises 
-: (I can only imagine)
 
 Words of Greeting and Grace
 : Brandon Frenzel
@@ -26,7 +24,7 @@ Sharing Shirley's Life
 : Katherine Wertke reading Betty Wertke
 
 Music
-: Bill Brooks (All in All)
+: Bill Brooks
 
 Gospel Message
 : Brandon Frenzel
