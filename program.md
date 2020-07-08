@@ -5,8 +5,9 @@ permalink: /program/
 
 
 Musical Prelude
+: [Video Slideshow](/slideshow)
+: [Spotify Playlist](/music)
 : Bill Brooks
-: Video Slideshow
 
 Seating of Family
 : Bill Brooks

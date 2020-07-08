@@ -73,6 +73,8 @@ nav:
     url: "/photos"
   - name: "music"
     url: "/music"
+  - name: obituary
+    url: /obituary
 # Sass
 sass:
   sass_dir:         _sass
