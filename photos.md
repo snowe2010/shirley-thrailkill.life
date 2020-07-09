@@ -8,6 +8,9 @@ permalink: /photos/
 [Direct link to album to download, share, etc](https://photos.app.goo.gl/hiDZxdybnHDQv5aF9)
 
 
+The photos on this webpage could take a significant amount of time to load if you have a slow internet connection or are trying to view on mobile. Give it time, there are 300+ photos to load. 
+
+
 <!-- https://www.publicalbum.org/blog/embedding-google-photos-albums -->
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
