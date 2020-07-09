@@ -13,6 +13,6 @@ There are two versions, a short 7 minute slideshow video with a single song and 
 
 ### Long Version
 
-[The long version can be found here](https://drive.google.com/file/d/1IexjxoXTrcR5hreMQ-gpS5bbK1ZFXdnD/view?usp=sharing)
 <div class="livestream">
+<iframe src="https://drive.google.com/file/d/1IexjxoXTrcR5hreMQ-gpS5bbK1ZFXdnD/preview" width="640" height="480"></iframe>
 </div>
