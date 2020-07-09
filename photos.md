@@ -20,7 +20,7 @@ You can click on the first photo in the album and choose Slideshow at the top fo
   data-link="https://photos.app.goo.gl/hiDZxdybnHDQv5aF9"
   data-title="Shirley Thrailkill - Celebration of Life"
   data-description="313 new photos added to shared album"
-  data-delay="2">
+  data-delay="3">
   <object data="https://lh3.googleusercontent.com/Y6UWJkVd2dWcUk7H3b02JTNiWIoWySW8L-DNds1D4to_zvXIHVayk3XoFlGzagBQcNm32DjBLEReYsUGVz3sVO3Hb4S8Zzh6UwK-en4rj4xmvW7MArY4p4n0FMZruJ3sew2EMp53M3Q=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/Oe8xkpJ5pqANZmrMpsGLBylBOLUOgMnW77GOBLVl3uJkdyYrS-jlY1eaMyZJnlKNuc2CYLSp-yNfvzy4ReWl6VFiTcu2ZT1dxhqO56FNQmNv9ma5KRc2-tmBoEjffNYzDrIxLV1FN3s=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/yqrDmL5wcK7l3_6He3o4H8EwSH8eb4Tr2rlzptnyxqOaXualM0t0Xrsm30GkEmERE8vBZJUQiXtvV9pdv6WA3SaKej9O3jrHKJ3pU0NP0hWf22fHIrDzz4YhZb9z1homrbJ9fMMjctI=w1920-h1080"></object>
