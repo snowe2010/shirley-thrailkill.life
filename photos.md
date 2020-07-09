@@ -10,6 +10,9 @@ permalink: /photos/
 
 The photos on this webpage could take a significant amount of time to load if you have a slow internet connection or are trying to view on mobile. Give it time, there are 300+ photos to load. 
 
+If the photos are too fast for you, please view them at [THIS LINK INSTEAD](https://www.icloud.com/sharedalbum/#B0P5oqs3qdhhW7).
+You can click on the first photo in the album and choose Slideshow at the top for a much slower slideshow. 
+
 
 <!-- https://www.publicalbum.org/blog/embedding-google-photos-albums -->
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
