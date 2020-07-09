@@ -3,11 +3,9 @@ title: Obituary
 permalink: /obituary/
 ---
 
-Shirley Ann Thrailkill
+Shirley Ann Thrailkill (nee Wertke)
 
 May 21, 1956 - June 28, 2020 
-
-Shirley Ann Thrailkill (nee Wertke)
 
 Shirley was born on May 21, 1956 at McHenry Hospital in Woodstock, Illinois. She was the middle child of Russell and Betty Wertke. Shirley was raised in Volo, Illinois with her older sister, Barbara, and younger brother, Ed. She attended grade school in McHenry, Illinois and graduated in 1974 from Grant High School in Fox Lake. In school she learned to play the French Horn and developed a love of music. At the age of 15 she was chosen to go to Europe with the United States Collegiate Wind Band to play in the capitals of five countries. This trip was the beginning of her love of travel and learning about other countries.
 
