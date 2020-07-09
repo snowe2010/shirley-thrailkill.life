@@ -13,7 +13,7 @@ Musical Prelude
 Seating of Family
 : Bill Brooks
 
-Words of Greeting and Grace
+Greeting and Grace
 : Brandon Frenzel
 
 Prayer
@@ -32,9 +32,9 @@ Gospel Message
 : Brandon Frenzel
 
 Music
-: Bill Brooks (Amazing Grace)
+: Bill Brooks
 
-Closing Words and Prayer
+Closing Words & Prayer
 : Brandon Frenzel
 
 Memory Slideshow

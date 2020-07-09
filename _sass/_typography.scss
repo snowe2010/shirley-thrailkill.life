@@ -120,7 +120,7 @@ ul {
 // Restyle <ul>
 ul {
   > li:before {
-    content: "\2022";
+    // content: "\2022";
     padding-right: $ul-bullets-right-space;
     font-family: $ul-bullets-font;
     font-size: $ul-bullets-font-size;
@@ -146,7 +146,8 @@ ol {
 ol, 
 ul {
   > li {
-    margin: 0 auto $li-bottom-space $li-bullets-width;
+    text-align: center;
+    // margin: 0 auto $li-bottom-space $li-bullets-width;
     line-height: $li-line-height;
     
     > ol,
