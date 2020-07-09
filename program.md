@@ -20,7 +20,7 @@ Prayer
 : Brandon Frenzel
 
 Sharing Shirley's Life
-: Ronnie Maroquin
+: Ronnie Marroquin
 : Judy Grimes
 : Y.C. Crowe
 : Katherine Wertke reading Betty Wertke
