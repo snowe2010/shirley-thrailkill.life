@@ -12,6 +12,7 @@ function setDark() {
   root.style.setProperty('--table-border-color', 'var(--so-base01)');
   root.style.setProperty('--table-background-color', 'var(--so-base02)');
   root.style.setProperty('--divider-color', 'var(--so-base02)');
+  root.style.setProperty('--form-field-color', 'var(--dark-form-field');
 }
 
 // Sets all root variables to solarized light versions
@@ -28,6 +29,7 @@ function setLight() {
   root.style.setProperty('--table-border-color', 'var(--so-base1)');
   root.style.setProperty('--table-background-color', 'var(--so-base2)');
   root.style.setProperty('--divider-color', 'var(--so-base2)');
+  root.style.setProperty('--form-field-color', 'var(--light-form-field');
 }
 
 // run as soon as loaded (early as possible to avoid page flickering)

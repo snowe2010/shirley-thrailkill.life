@@ -65,6 +65,8 @@ nav:
     url: "/"
   - name: "program"
     url: "/program"
+  - name: guestbook
+    url: /guestbook
   - name: "livestream"
     url: /livestream
   - name: "slideshow"

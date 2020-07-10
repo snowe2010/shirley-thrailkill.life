@@ -211,4 +211,6 @@ oc-orange-9: #d9480f,
   @each $name, $color in $colors {
     --#{$name}: #{$color};
   }
+  --light-form-field: rgba(0,0,0,0.1);
+  --dark-form-field: rgba(255,255,255,0.1);
 }
