@@ -518,7 +518,7 @@ h3 {
 .login-form .group .input,
 .login-form .group .button{
 	width:100%;
-	color:#fff;
+  color:var(--text-color);
 	display:block;
 }
 .login-form .group .input,
